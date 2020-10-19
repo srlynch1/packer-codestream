@@ -260,7 +260,7 @@
             "guest_os_type": "windows9Server64Guest",
             "CPUs": "2",
             "RAM": "4096",
-            "disk_controller_type": "pvscsi",
+            "disk_controller_type":  "lsilogic-sas",
             "storage": [{
                 "disk_size": "61440",
                 "disk_thin_provisioned": true
