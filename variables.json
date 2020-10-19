@@ -19,7 +19,7 @@
 
     "ubuntu1804_vm_name": "packer-ubuntu1804",
     "ubuntu1804_iso": "[vsanDatastore_Kakadu] iso/ubuntu-18.04.5-server-amd64.iso",
-    "ubuntu1804_checksum": "8C5FC24894394035402F66F3824BEB7234B757DD2B5531379CB310CEDFDF0996",
+    "ubuntu1804_checksum": "8c5fc24894394035402f66f3824beb7234b757dd2b5531379cb310cedfdf0996",
 
     "ubuntu1910_vm_name": "packer-ubuntu1910",
     "ubuntu1910_iso": "[vsanDatastore_Kakadu] iso/ubuntu-19.10-server-amd64.iso",
@@ -27,7 +27,7 @@
 
     "ubuntu2004_vm_name": "packer-ubuntu2004",
     "ubuntu2004_iso": "[vsanDatastore_Kakadu] iso/ubuntu-18.04.3-server-amd64.iso",
-    "ubuntu2004_checksum": "caf3fd69c77c439f162e2ba6040e9c320c4ff0d69aad1340a514319a9264df9f",
+    "ubuntu2004_checksum": "8c5fc24894394035402f66f3824beb7234b757dd2b5531379cb310cedfdf0996",
 
     "windows_2016_vm_name": "packer-windows2016",
     "windows_2016_iso": "[vsanDatastore_Kakadu] iso/Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO",
