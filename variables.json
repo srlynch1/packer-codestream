@@ -15,7 +15,7 @@
     "winrm_username": "Administrator",
     "winrm_password": "{{ env `SSHPASS`}}",
 
-    "http_server": "https://raw.githubusercontent.com/VMwareCMBUTMM/fielddemo-packer-templates/master/config",
+    "http_server": "https://raw.githubusercontent.com/srlynch1/packer-codestream/master/config",
 
     "ubuntu1804_vm_name": "packer-ubuntu1804",
     "ubuntu1804_iso": "[vsanDatastore_Kakadu] iso/ubuntu-18.04.3-server-amd64.iso",
